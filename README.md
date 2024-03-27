@@ -8,7 +8,7 @@ The project is organized into separate Jupyter notebooks for each architecture:
 
 * **Attention_ResUNet.ipynb**: This notebook provides a detailed explanation and implementation of the Attention ResUNet architecture. It includes preprocessing, architecture details, training, and results.
 * **UNet_2D.ipynb**: This notebook provides a detailed explanation and implementation of the 2D UNet architecture. It includes preprocessing, architecture details, training, and results.
-* * **Ensemble-Attention_ResUNet.ipynb**: This notebook provides a detailed explanation and implementation of Mixture of experts with Attention ResUNet architecture. It includes preprocessing, architecture details, training, and results.
+* **Ensemble-Attention_ResUNet.ipynb**: This notebook provides a detailed explanation and implementation of Mixture of experts with Attention ResUNet architecture. It includes preprocessing, architecture details, training, and results.
 * **ResUNet_3D.ipynb**: This notebook provides a detailed explanation and implementation of the 3D ResUNet architecture. It includes preprocessing, architecture details, training, and results.
 * **UNet_3D.ipynb**: This notebook provides a detailed explanation and implementation of the 3D UNet architecture. It includes preprocessing, architecture details, training, and results.
 * **Attention_ResUNet_3D.ipynb**: This notebook provides a detailed explanation and implementation of the 3D Attention ResUNet architecture. It includes preprocessing, architecture details, training, and results.
